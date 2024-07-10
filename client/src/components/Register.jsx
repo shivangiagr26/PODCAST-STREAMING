@@ -19,7 +19,7 @@ export default function Register() {
     // set configurations
     const configuration = {
       method: "post",
-      url: "http://localhost:5000/api/auth/register",
+      url: "https://vercel.com/shivangi-agarwals-projects/podcast-streaming/2ZvvWQPjwfLYjytTQLMGtFKJCtr6/api/auth/register",
       data: {
         username,
         email,
