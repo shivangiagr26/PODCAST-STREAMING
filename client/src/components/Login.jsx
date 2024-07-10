@@ -22,7 +22,7 @@ const Login = () => {
     // set configurations
     const configuration = {
       method: "post",
-      url: "https://vercel.com/shivangi-agarwals-projects/podcast-streaming/2ZvvWQPjwfLYjytTQLMGtFKJCtr6/api/auth/login",
+      url: "https://vercel.com/shivangi-agarwals-projects/podcast-streaming/3xkU5fAN54kww8L1P7bMWmY75XWM/api/auth/login",
       data: {
         email,
         password,
